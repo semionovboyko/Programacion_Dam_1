@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Empresa_agroalimentaria.Producto" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/Producto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="167" x="164" y="123"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Empresa_agroalimentaria.CongNITROGENO" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/CongNITROGENO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="216" x="-86" y="846"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Empresa_agroalimentaria.test" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/test.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="115" x="452" y="123"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Empresa_agroalimentaria.CongAGUA" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/CongAGUA.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="202" x="170" y="846"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Empresa_agroalimentaria.Frio" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/Frio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="137" x="275" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Empresa_agroalimentaria.ProductoFresco" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/ProductoFresco.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="181" x="54" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Empresa_agroalimentaria.CongAIRE" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/CongAIRE.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="236" x="412" y="846"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Empresa_agroalimentaria.ProductoCongelado" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/ProductoCongelado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="226" x="144" y="671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Empresa_agroalimentaria.ProductoRefrigerados" project="masEjercicios" 
+    file="/masEjercicios/src/Empresa_agroalimentaria/ProductoRefrigerados.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="238" x="410" y="671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
